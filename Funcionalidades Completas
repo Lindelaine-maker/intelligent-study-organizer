@@ -1,0 +1,19 @@
+MVP (Produto Mínimo Viável)
+
+✅ Cadastro de disciplinas com nível de dificuldade
+✅ Adição de tarefas com prazos e prioridades
+✅ Geração automática de cronograma inteligente
+✅ Interface Streamlit completa e intuitiva
+✅ Persistência de dados em JSON
+✅ Dashboard de estatísticas
+📚 Documentação Completa
+
+✅ README.md com visão geral
+✅ CONTRIBUTING.md para contribuidores
+✅ docs/FEATURES.md com roadmap
+✅ docs/INSTALLATION.md guia de instalação
+🧪 Testes Abrangentes
+
+✅ tests/test_organizer.py com 15+ casos de teste
+✅ tests/test_scheduler.py com testes do algoritmo
+✅ Cobertura de casos normais e exceções
