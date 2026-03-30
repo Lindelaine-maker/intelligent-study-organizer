@@ -1,0 +1,19 @@
+ src/organizer.py ✅
+✨ Classe StudyOrganizer com gerenciamento completo de disciplinas e tarefas
+✨ Persistência de dados em JSON
+✨ Validação de entrada com mensagens de erro descritivas
+✨ Métodos para CRUD (Create, Read, Update, Delete)
+✨ Estatísticas de estudos
+2️⃣ src/scheduler.py ✅
+✨ Classe StudyScheduler com geração inteligente de cronogramas
+✨ Algoritmo que considera prioridade e dificuldade
+✨ Distribuição automática de tarefas entre dias
+✨ Exportação para CSV
+✨ Obtenção de cronograma do dia
+3️⃣ app.py ✅
+✨ Interface Streamlit com 5 páginas
+✨ Página de Início (Boas-vindas e instruções)
+✨ Cadastro de Disciplinas com validação
+✨ Adição de Tarefas com priorização
+✨ Visualização de Cronograma gerado
+✨ Dashboard de Estatísticas
