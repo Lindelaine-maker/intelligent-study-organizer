@@ -1,0 +1,15 @@
+# 1. Clonar
+git clone https://github.com/Lindelaine-maker/intelligent-study-organizer.git
+cd intelligent-study-organizer
+
+# 2. Instalar dependências
+pip install -r requirements.txt
+
+# 3. Executar testes
+pytest tests/ -v
+
+# 4. Rodar a aplicação
+streamlit run app.py
+
+# 5. Acessar
+# Abra http://localhost:8501 no navegador
