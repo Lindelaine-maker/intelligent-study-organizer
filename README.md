@@ -35,3 +35,23 @@ Contributions are welcome! Please see our [Contributing Guide](CONTRIBUTING.md) 
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+intelligent-study-organizer/
+├── 📄 README.md                    ✅
+├── 📄 LICENSE                      ✅
+├── 📄 .gitignore                   ✅
+├── 📄 requirements.txt             ✅
+├── 📄 app.py                       ✅
+├── 📄 CONTRIBUTING.md              ✅
+├── 📁 src/
+│   ├── __init__.py                 ✅
+│   ├── organizer.py               ✅
+│   └── scheduler.py               ✅
+├── 📁 docs/
+│   ├── FEATURES.md                ✅
+│   └── INSTALLATION.md            ✅
+├── 📁 tests/
+│   ├── test_organizer.py          ✅
+│   └── test_scheduler.py          ✅
+└── 📁 data/
+    └── .gitkeep                   ✅   
