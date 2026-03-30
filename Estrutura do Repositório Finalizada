@@ -1,0 +1,19 @@
+intelligent-study-organizer/
+├── 📄 README.md                    ✅
+├── 📄 LICENSE                      ✅
+├── 📄 .gitignore                   ✅
+├── 📄 requirements.txt             ✅
+├── 📄 app.py                       ✅
+├── 📄 CONTRIBUTING.md              ✅
+├── 📁 src/
+│   ├── __init__.py                 ✅
+│   ├── organizer.py               ✅
+│   └── scheduler.py               ✅
+├── 📁 docs/
+│   ├── FEATURES.md                ✅
+│   └── INSTALLATION.md            ✅
+├── 📁 tests/
+│   ├── test_organizer.py          ✅
+│   └── test_scheduler.py          ✅
+└── 📁 data/
+    └── .gitkeep                   ✅
